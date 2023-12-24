@@ -6,3 +6,5 @@ def puzzling_fun(my_list):
 
 my_list=list('entrepreneurial')
 print(puzzling_fun(my_list))
+
+#['e', 'n', 't', 'r', 'p', 'u', 'i', 'a', 'l']
